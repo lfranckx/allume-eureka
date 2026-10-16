@@ -13,4 +13,4 @@ Static one-page site. No build step.
 2. Repository Settings → Pages → Source: "Deploy from a branch" → `main` / root.
 3. For a custom domain, add it under Settings → Pages and add a `CNAME` file containing the domain.
 
-All booking buttons link to https://holidayislandlodging.com/.
+All Allumé booking buttons link to https://holidayislandlodging.com/vacation-rentals/allume/ and The Van Buren button to https://holidayislandlodging.com/vacation-rentals/van-buren/.
